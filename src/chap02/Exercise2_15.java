@@ -1,4 +1,4 @@
-package chap01;
+package chap02;
 // 2.15 Arithmetic
 import java.util.Scanner;
 

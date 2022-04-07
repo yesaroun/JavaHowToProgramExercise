@@ -1,6 +1,6 @@
-package chap01;
+package chap02;
 
-public class Exercises2_14 {
+public class Exercise2_14 {
     public static void main(String[] args) {
         System.out.printf("%d", 1);
         System.out.print(" 2");

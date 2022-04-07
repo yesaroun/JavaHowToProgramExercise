@@ -1,4 +1,4 @@
-package chap01;
+package chap02;
 // 2.16 Comparing Integers
 import java.util.Scanner;
 
